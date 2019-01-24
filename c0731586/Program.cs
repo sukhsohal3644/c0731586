@@ -23,7 +23,7 @@ namespace Class_practise_3
             else { Console.WriteLine("Promoted to Level 2"); }
         }
 
-
+       
 
 
 
